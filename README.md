@@ -1,2 +1,3 @@
 # hello-world
-my first crack at using github :)
+
+Testing out how to make and commit changes to github!
